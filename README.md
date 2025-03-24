@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 🚀
 
-<!--
-**AravCodes/AravCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Nyan Cat Custom](https://raw.githubusercontent.com/AravCodes/AravCodes/main/safe_image.webp)
 
-Here are some ideas to get you started:
+## About Me  
+👋 Hi, I'm **Arav Gupta**  
+💻 **Tech Enthusiast | Software Developer | Exploring AI solutions**  
+🚀 Currently working as a **DevSecOps & Infrastructure Intern at MSIL**  
+📍 **Based in Lucknow | College Student | Exploring Tech, Consultancy & Finance**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools  
+- **Languages**: Python, JavaScript, C++  
+- **ML & AI**: TensorFlow, PyTorch, Scikit-Learn  
+- **Web Development**: MERN Stack  
+- **DevOps & Cloud**: AWS, Terraform, Docker  
+
+### 📫 Connect With Me  
+- 🔗 [LinkedIn](https://linkedin.com/in/arav-gupta-porwal)  
+
+
+---
+
+⭐️ *Feel free to explore my repos and contribute!*  
