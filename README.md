@@ -11,10 +11,10 @@
 📍 **Based in Lucknow | College Student | Exploring Tech, Consultancy & Finance**  
 
 ### 🔧 Skills & Tools  
--🛠️ **Languages**: C++, Python, HTML/CSS, Javascript
--🤖 **ML & AI**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face, Langchain  
--🌐 **Web Development**: MERN Stack
--☁️ **DevOps, CI/CD & Cloud**: AWS Cloud Services, Terraform, Docker, Jenkins
+🛠️ **Languages**: C++, Python, HTML/CSS, Javascript<br>
+🤖 **ML & AI**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face, Langchain<br>
+🌐 **Web Development**: MERN Stack<br>
+☁️ **DevOps, CI/CD & Cloud**: AWS Cloud Services, Terraform, Docker, Jenkins
 
 ### 📫 Connect With Me  
 🔗 [LinkedIn](https://linkedin.com/in/arav-gupta-porwal)  
