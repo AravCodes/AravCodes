@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Profile! 🚀
 
-<img src="https://raw.githubusercontent.com/AravCodes/AravCodes/main/safe_image.webp" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/AravCodes/AravCodes/main/safe_image.webp" width="width" height="auto">
 
 ## About Me  
 👋 Hi, I'm **Arav Gupta**  
