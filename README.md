@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My GitHub Profile! 🚀
 
-<img src="https://raw.githubusercontent.com/AravCodes/AravCodes/main/safe_image.webp" width="800" height="auto">
+<img src="https://raw.githubusercontent.com/AravCodes/AravCodes/main/safe_image.webp" width="auto" height="auto">
 
 ## About Me  
 👋 Hi, I'm **Arav Gupta**  
@@ -11,10 +11,10 @@
 📍 **Based in Lucknow | College Student | Exploring Tech, Consultancy & Finance**  
 
 ### 🔧 Skills & Tools  
-🛠️ **Languages**: Python, JavaScript, C++  
-🤖 **ML & AI**: TensorFlow, PyTorch, Scikit-Learn  
-🌐 **Web Development**: MERN Stack  
-☁️ **DevOps & Cloud**: AWS, Terraform, Docker  
+🛠️ **Languages**: C++, Python, HTML/CSS, Javascript
+🤖 **ML & AI**: TensorFlow, PyTorch, Scikit-Learn, Hugging Face, Langchain  
+🌐 **Web Development**: MERN Stack
+☁️ **DevOps, CI/CD & Cloud**: AWS Cloud Services, Terraform, Docker, Jenkins
 
 ### 📫 Connect With Me  
 🔗 [LinkedIn](https://linkedin.com/in/arav-gupta-porwal)  
