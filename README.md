@@ -20,7 +20,7 @@
 🔗 [LinkedIn](https://linkedin.com/in/arav-gupta-porwal)  
 
 ---
-
+<img src="https://raw.githubusercontent.com/AravCodes/AravCodes/main/57615b8c0092a66c1d4058b1692955cc.gif" width="100" height="100"> <br>
 ⭐️ *Feel free to explore my repos and contribute!*  
 
 </div>
